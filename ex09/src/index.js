@@ -1,8 +1,8 @@
 function main(numOne, numTwo) {
     //Only change code below this line
-   
-    difference = numOne - numTwo;
-
+    var numOne;
+    var numTwo;
+    var  difference = numOne - numTwo;
     //Only change code below this line
  return difference; 
 }
